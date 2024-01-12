@@ -34,39 +34,39 @@ Fine Calculation
 
 ## Student Data Analysis
 
-###Overview:
+### Overview:
 Python project for analyzing and visualizing student data, including data cleaning, exploration, and visualization.
 
-###Features:
+### Features:
 + Data Cleaning
 + Data Exploration
 + Data Visualization
 
-###How to Run:
+### How to Run:
 + Clone repository
 + Navigate to student_data_analysis
 + Open student_data_analysis.ipynb
 
-###Dependencies:
+### Dependencies:
 + Python 3.x
 + Jupyter Notebook
 + Pandas, Matplotlib, Seaborn (pip install pandas matplotlib seaborn)
 
-##Exams Analysis
-###Overview:
+## Exams Analysis
+### Overview:
 Python project for analyzing and visualizing exam data, evaluating performance and identifying trends.
 
-###Features:
+### Features:
 + Exam Performance Analysis
 + Trend Identification
 + Visualization
 
-###How to Run:
+### How to Run:
 + Clone repository
 + Navigate to exams_analysis
 + Open exams_analysis.ipynb
 
-###Dependencies:
+### Dependencies:
 + Python 3.x
 + Jupyter Notebook
 + Pandas, Matplotlib, Seaborn (pip install pandas matplotlib seaborn)
